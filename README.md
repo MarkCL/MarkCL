@@ -10,4 +10,3 @@ Specialties:
 * I2C communication protocol
 * Restful Api development in Go
 * GRPC micro services development in Go
-
