@@ -1,6 +1,6 @@
 👋 Hi, I’m Cheng-Lung(Mark) Wu
 
-Professional principal software engineer with over 10 years of experience, a Master of Science in Communication Engineering and a Bachelor of Electronic Engineering. Embedded software development, and designing and coding utility programs. Microsoft Certified: Azure Developer Associate. Seeking to leverage solid experience and extensive education to obtain a new position as an embedded engineer or software engineer.
+A Professional principal software engineer with over 10 years of experience, a Master of Science in Communication Engineering and a Bachelor of Electronic Engineering. Embedded software development, and designing and coding utility programs. Microsoft Certified: Azure Developer Associate. Seeking to leverage solid experience and extensive education to obtain a new position as an embedded engineer or software engineer.
 
 Specialties:
 * Experience across hardware, multiple level programming language such as C, C#, Python, Swift, Go
