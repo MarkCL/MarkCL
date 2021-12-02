@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @MarkCL
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Cheng-Lung(Mark) Wu
 
-<!---
 Professional principal software engineer with over 10 years of experience, a Master of Science in Communication Engineering and a Bachelor of Electronic Engineering. Embedded software development, and designing and coding utility programs. Microsoft Certified: Azure Developer Associate. Seeking to leverage solid experience and extensive education to obtain a new position as an embedded engineer or software engineer.
 
 Specialties:
@@ -15,4 +10,4 @@ Specialties:
 * I2C communication protocol
 * Restful Api development in Go
 * GRPC micro services development in Go
---->
+
